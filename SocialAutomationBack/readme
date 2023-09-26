@@ -1,0 +1,26 @@
+
+# Social Automation
+
+Avant de démarrer le projet, créer un fichier app.config à la racine du projet et y ajouter les lignes suivantes :
+
+```xml
+<configuration>
+    <appSettings>
+        <add key="OpenAiApiKey" value="CLÉ API OPEN AI"/>
+    </appSettings>
+</configuration>
+```
+
+## Utilisation
+
+Pour démarrer le projet : 
+
+
+```bash
+$ dotnet build
+$ dotnet run
+```
+    
+
+
+

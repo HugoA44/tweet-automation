@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Electron App</title>
+    <link rel="stylesheet" type="text/css" href="./styles.css" />
+    <link rel="icon" href="./logo.png" />
+  </head>
+  <body>
+    <div class="loader" id="loader">
+      <img src="./loader.gif" alt="Loading..." />
+    </div>
+    
+    <div class="tweet-container">
+      <div class="post-form">
+        <img src="./logo.png" alt="logo" class="logo" />
+        <form id="commandForm">
+          <label for="companyName">Nom de l'entreprise :</label>
+          <input
+            type="text"
+            class="tweet-input"
+            id="companyName"
+            name="companyName"
+            required
+          /><br />
+
+          <label for="subject">Que fait votre entreprise :</label>
+          <input
+            type="text"
+            class="tweet-input"
+            id="subject"
+            name="subject"
+            required
+          /><br />
+
+          <label for="numberOfItems">Nombre de posts générer :</label>
+          <input
+            type="number"
+            class="tweet-input"
+            id="numberOfItems"
+            name="numberOfItems"
+            required
+          /><br />
+
+          <button type="button" class="tweet-button" id="executeButton">
+            Créer les tweets 🪄
+          </button>
+        </form>
+      </div>
+
+      <pre id="output"></pre>
+    </div>
+    <script src="./renderer.js"></script>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "odLFVzceyZyohp9erigM5BNbZo+Gn6KHFyB5SMIbB0OUbbFk+0qBYjNxXtV52zZwvdW5b5PIJw/sNgp2l97ucQ==",
+  "success": true,
+  "projectFilePath": "/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/SocialAutomation.csproj",
+  "expectedPackageFiles": [
+    "/Users/hugoa/.nuget/packages/cliwrap/3.6.4/cliwrap.3.6.4.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/pexelsdotnetsdk/1.0.11/pexelsdotnetsdk.1.0.11.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/system.configuration.configurationmanager/7.0.0/system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/system.diagnostics.eventlog/7.0.0/system.diagnostics.eventlog.7.0.0.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/system.net.http.json/7.0.1/system.net.http.json.7.0.1.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/system.security.cryptography.protecteddata/7.0.0/system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/system.security.permissions/7.0.0/system.security.permissions.7.0.0.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512",
+    "/Users/hugoa/.nuget/packages/system.windows.extensions/7.0.0/system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

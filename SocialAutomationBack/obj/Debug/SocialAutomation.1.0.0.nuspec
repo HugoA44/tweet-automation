@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SocialAutomation</id>
+    <version>1.0.0</version>
+    <authors>SocialAutomation</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/obj/DotnetToolSettings.xml" target="tools/net7.0/any/DotnetToolSettings.xml" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/SocialAutomation.dll" target="tools/net7.0/any/SocialAutomation.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/SocialAutomation.deps.json" target="tools/net7.0/any/SocialAutomation.deps.json" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/SocialAutomation.runtimeconfig.json" target="tools/net7.0/any/SocialAutomation.runtimeconfig.json" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/SocialAutomation.dll.config" target="tools/net7.0/any/SocialAutomation.dll.config" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/SocialAutomation.pdb" target="tools/net7.0/any/SocialAutomation.pdb" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/CliWrap.dll" target="tools/net7.0/any/CliWrap.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/CommandLine.dll" target="tools/net7.0/any/CommandLine.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/Microsoft.Win32.SystemEvents.dll" target="tools/net7.0/any/Microsoft.Win32.SystemEvents.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/Newtonsoft.Json.dll" target="tools/net7.0/any/Newtonsoft.Json.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/PexelsDotNetSDK.dll" target="tools/net7.0/any/PexelsDotNetSDK.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/System.Configuration.ConfigurationManager.dll" target="tools/net7.0/any/System.Configuration.ConfigurationManager.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/System.Diagnostics.EventLog.dll" target="tools/net7.0/any/System.Diagnostics.EventLog.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/System.Drawing.Common.dll" target="tools/net7.0/any/System.Drawing.Common.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/System.Security.Cryptography.ProtectedData.dll" target="tools/net7.0/any/System.Security.Cryptography.ProtectedData.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/System.Security.Permissions.dll" target="tools/net7.0/any/System.Security.Permissions.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/System.Windows.Extensions.dll" target="tools/net7.0/any/System.Windows.Extensions.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" target="tools/net7.0/any/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll" target="tools/net7.0/any/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll" target="tools/net7.0/any/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/runtimes/win/lib/net7.0/System.Drawing.Common.dll" target="tools/net7.0/any/runtimes/win/lib/net7.0/System.Drawing.Common.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll" target="tools/net7.0/any/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll" />
+    <file src="/Users/hugoa/dev/mydigitalschool/M2/natif/SocialAutomation/SocialAutomationBack/bin/Debug/net7.0/publish/runtimes/win/lib/net7.0/System.Windows.Extensions.dll" target="tools/net7.0/any/runtimes/win/lib/net7.0/System.Windows.Extensions.dll" />
+  </files>
+</package>
