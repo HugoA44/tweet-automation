@@ -3,6 +3,7 @@ using System;
 using System.Threading.Tasks;
 using CommandLine;
 using System.Text;
+using System.Net.Http;
 
 namespace SocialAutomation
 {
@@ -20,6 +21,7 @@ namespace SocialAutomation
                     var dayEventGenerator = new DayEventGenerator();
                     var tweetGenerator = new TweetGenerator();
                     var imageGenerator = new ImageGenerator();
+                    var asanaService = new AsanaService();
 
                     List<EventModel> eventDetailList = new List<EventModel>();
 
@@ -38,11 +40,14 @@ namespace SocialAutomation
                             Image = picture
                         };
 
+                        asanaService.PostEventDetailAsync(detail);
+
                         eventDetailList.Add(detail);
                     }
 
 
                     Console.WriteLine(JsonConvert.SerializeObject(eventDetailList));
+
                 });
         }
 
@@ -64,20 +69,6 @@ namespace SocialAutomation
             return output.ToString();
         }
 
-    }
-}
-
-
-public class EventModel
-{
-    public string Date { get; set; }
-    public string Event { get; set; }
-    public string Tweet { get; set; }
-    public string Image { get; set; }
-
-    public override string ToString()
-    {
-        return $"Date: {Date}, Event: {Event}, Tweet: {Tweet}, Image: {Image}";
     }
 }
 

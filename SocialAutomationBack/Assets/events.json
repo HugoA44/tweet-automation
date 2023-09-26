@@ -1,945 +1,1029 @@
 [
-  { "date": "01/01", "subject": "Nouvel an 🥳", "keyword": "NewYear" },
+  { "date": "2024-01-01", "subject": "Nouvel an 🥳", "keyword": "NewYear" },
   {
-    "date": "01/01",
+    "date": "2024-01-01",
     "subject": "Journée Mondiale de la Paix",
     "keyword": "Peace"
   },
   {
-    "date": "04/01",
+    "date": "2024-01-04",
     "subject": "Journée Mondiale du Braille",
     "keyword": "Braille"
   },
   {
-    "date": "05/01",
+    "date": "2024-01-05",
     "subject": "Salon de la technologie à Las Vegas",
     "keyword": "Technology"
   },
-  { "date": "08/01", "subject": "Épiphanie", "keyword": "Epiphany" },
+  { "date": "2024-01-08", "subject": "Épiphanie", "keyword": "Epiphany" },
   {
-    "date": "10/01",
+    "date": "2024-01-10",
     "subject": "Champagne and French Fries Day",
     "keyword": "Champagne"
   },
   {
-    "date": "11/01",
+    "date": "2024-01-11",
     "subject": "Début des soldes d’hiver en France",
     "keyword": "Sale"
   },
   {
-    "date": "12/01",
-    "subject": "Tokyo Game Show Salon du jeu-vidéo japonais",
+    "date": "2024-01-12",
+    "subject": "Tokyo Game Show Salon du jeu vidéo japonais",
     "keyword": "Gaming"
   },
   {
-    "date": "12/01",
+    "date": "2024-01-12",
     "subject": "Journée Mondiale des Roux ( Kiss a Ginger Day) 👨‍🦰👩‍🦰",
     "keyword": "Redhead"
   },
   {
-    "date": "13/01",
+    "date": "2024-01-13",
     "subject": "Journée nationale de l’hypersensibilité",
     "keyword": "Sensitivity"
   },
-  { "date": "13/01", "subject": "Vendredi 13", "keyword": "Superstition" },
-  { "date": "16/01", "subject": "Blue Monday", "keyword": "Depression" },
+  { "date": "2024-01-13", "subject": "Vendredi 13", "keyword": "Superstition" },
+  { "date": "2024-01-16", "subject": "Blue Monday", "keyword": "Depression" },
   {
-    "date": "17/01",
+    "date": "2024-01-17",
     "subject": "Journée Internationale de la cuisine italienne ?",
     "keyword": "ItalianCuisine"
   },
   {
-    "date": "21/01",
+    "date": "2024-01-21",
     "subject": "Journée mondiale des câlins 🤗",
     "keyword": "Hug"
   },
   {
-    "date": "22/01",
+    "date": "2024-01-22",
     "subject": "Nouvel An Chinois",
     "keyword": "ChineseNewYear"
   },
   {
-    "date": "24/01",
+    "date": "2024-01-24",
     "subject": "Journée Internationale du sport féminin ?",
     "keyword": "WomensSports"
   },
   {
-    "date": "28/01",
+    "date": "2024-01-28",
     "subject": "Journée Mondiale de la protection des données",
     "keyword": "DataProtection"
   },
-  { "date": "02/02", "subject": "Chandeleur", "keyword": "CrepeDay" },
+  { "date": "2024-02-02", "subject": "Chandeleur", "keyword": "CrepeDay" },
   {
-    "date": "04/02",
+    "date": "2024-02-04",
     "subject": "Journée mondiale contre le cancer",
     "keyword": "CancerAwareness"
   },
   {
-    "date": "04/02",
+    "date": "2024-02-04",
     "subject": "Journée Internationale de la fraternité humaine",
     "keyword": "HumanFraternity"
   },
   {
-    "date": "05/02",
+    "date": "2024-02-05",
     "subject": "Journée Mondiale du Nutella",
     "keyword": "Nutella"
   },
   {
-    "date": "06/02",
+    "date": "2024-02-06",
     "subject": "Journée Mondiale sans téléphone 📱",
     "keyword": "Phoneless"
   },
   {
-    "date": "07/02",
+    "date": "2024-02-07",
     "subject": "Journée Mondiale pour un Internet plus sûr",
     "keyword": "InternetSafety"
   },
-  { "date": "11/02", "subject": "Carnaval de Venise", "keyword": "Carnival" },
   {
-    "date": "11/02",
+    "date": "2024-02-11",
+    "subject": "Carnaval de Venise",
+    "keyword": "Carnival"
+  },
+  {
+    "date": "2024-02-11",
     "subject": "Journée Internationale des femmes et des filles de science",
     "keyword": "WomenInScience"
   },
-  { "date": "12/02", "subject": "Finale du Superbowl", "keyword": "Superbowl" },
   {
-    "date": "13/02",
+    "date": "2024-02-12",
+    "subject": "Finale du Superbowl",
+    "keyword": "Superbowl"
+  },
+  {
+    "date": "2024-02-13",
     "subject": "Journée Mondiale de la Radio 📻",
     "keyword": "Radio"
   },
   {
-    "date": "14/02",
+    "date": "2024-02-14",
     "subject": "Saint Valentin 💑",
     "keyword": "ValentinesDay"
   },
-  { "date": "17/02", "subject": "Carnaval de Rio", "keyword": "Carnival" },
+  { "date": "2024-02-17", "subject": "Carnaval de Rio", "keyword": "Carnival" },
   {
-    "date": "18/02",
-    "subject": "“Drink Wine Day” (États-Unis)",
+    "date": "2024-02-18",
+    "subject": "Drink Wine Day (États-Unis)",
     "keyword": "Wine"
   },
   {
-    "date": "19/02",
+    "date": "2024-02-19",
     "subject": "Journée Internationale de la baleine",
     "keyword": "Whale"
   },
   {
-    "date": "20/02",
+    "date": "2024-02-20",
     "subject": "Journée Mondiale du pangolin",
     "keyword": "Pangolin"
   },
   {
-    "date": "20/02",
+    "date": "2024-02-20",
     "subject": "Journée Mondiale de la justice sociale",
     "keyword": "SocialJustice"
   },
   {
-    "date": "25/02",
+    "date": "2024-02-25",
     "subject": "Salon International de l’Agriculture",
     "keyword": "Agriculture"
   },
   {
-    "date": "25/02",
+    "date": "2024-02-25",
     "subject": "« Open That Bottle Night »",
     "keyword": "Bottle"
   },
-  { "date": "26/02", "subject": "Oscars", "keyword": "Oscars" },
-  { "date": "28/02", "subject": "Mardi Gras", "keyword": "MardiGras" },
+  { "date": "2024-02-26", "subject": "Oscars", "keyword": "Oscars" },
+  { "date": "2024-02-28", "subject": "Mardi Gras", "keyword": "MardiGras" },
   {
-    "date": "28/02",
+    "date": "2024-02-28",
     "subject": "Fin des soldes d’hiver en France",
     "keyword": "Sale"
   },
   {
-    "date": "01/03",
+    "date": "2024-03-01",
     "subject": "Journée Mondiale du compliment",
     "keyword": "Compliment"
   },
   {
-    "date": "03/03",
+    "date": "2024-03-03",
     "subject": "Journée du vin chaud ou « Mulled wine day » (États-Unis)",
     "keyword": "MulledWine"
   },
   {
-    "date": "04/03",
+    "date": "2024-03-04",
     "subject": "Journée Mondiale de l’obésité",
     "keyword": "Obesity"
   },
   {
-    "date": "05/03",
+    "date": "2024-03-05",
     "subject": "Fête des Grands-mères 🧑‍🦳",
     "keyword": "Grandmothers"
   },
   {
-    "date": "05/03",
+    "date": "2024-03-05",
     "subject": "Journée de l’Absinthe",
     "keyword": "Absinthe"
   },
   {
-    "date": "06/03",
+    "date": "2024-03-06",
     "subject": "Journée Mondiale du tennis ?",
     "keyword": "Tennis"
   },
   {
-    "date": "08/03",
+    "date": "2024-03-08",
     "subject": "Journée Internationale des droits des femmes",
     "keyword": "WomensRights"
   },
   {
-    "date": "10/03",
+    "date": "2024-03-10",
     "subject": "Journée Internationale des femmes juges",
     "keyword": "WomenJudges"
   },
   {
-    "date": "11/03",
+    "date": "2024-03-11",
     "subject": "Journée Mondiale des startups",
     "keyword": "Startups"
   },
   {
-    "date": "12/03",
+    "date": "2024-03-12",
     "subject": "Journée Mondiale contre la censure sur Internet",
     "keyword": "InternetCensorship"
   },
   {
-    "date": "13/03",
+    "date": "2024-03-13",
     "subject": "Journée Internationale du Riesling",
     "keyword": "Riesling"
   },
   {
-    "date": "16/03",
+    "date": "2024-03-16",
     "subject": "Journée Internationale du macaron",
     "keyword": "Macaron"
   },
-  { "date": "17/03", "subject": "Saint Patrick 🍀", "keyword": "StPatrick" },
   {
-    "date": "20/03",
+    "date": "2024-03-17",
+    "subject": "Saint Patrick 🍀",
+    "keyword": "StPatrick"
+  },
+  {
+    "date": "2024-03-20",
     "subject": "Journée Mondiale du bonheur",
     "keyword": "Happiness"
   },
   {
-    "date": "20/03",
+    "date": "2024-03-20",
     "subject": "Journée Internationale de la francophonie",
     "keyword": "Francophonie"
   },
   {
-    "date": "20/03",
+    "date": "2024-03-20",
     "subject": "1ᵉʳ jour du Printemps 🌸",
     "keyword": "SpringStart"
   },
   {
-    "date": "21/03",
+    "date": "2024-03-21",
     "subject": "Journée mondiale de la poésie",
     "keyword": "Poetry"
   },
   {
-    "date": "22/03",
+    "date": "2024-03-22",
     "subject": "Journée mondiale de l’eau 🌊",
     "keyword": "Water"
   },
   {
-    "date": "24/03",
+    "date": "2024-03-24",
     "subject": "Journée Européenne de la glace artisanale",
     "keyword": "ArtisanalIceCream"
   },
   {
-    "date": "25/03",
+    "date": "2024-03-25",
     "subject": "Journée Mondiale de la procrastination",
     "keyword": "Procrastination"
   },
   {
-    "date": "25/03",
+    "date": "2024-03-25",
     "subject": "Journée Mondiale contre la publicité",
     "keyword": "AntiAdvertising"
   },
   {
-    "date": "25/03",
+    "date": "2024-03-25",
     "subject": "Passage à l’heure d’été",
     "keyword": "DaylightSaving"
   },
   {
-    "date": "27/03",
+    "date": "2024-03-27",
     "subject": "Journée Nationale du fromage ? 🧀",
     "keyword": "Cheese"
   },
-  { "date": "01/04", "subject": "Poisson d’Avril 🤡", "keyword": "AprilFools" },
   {
-    "date": "01/04",
+    "date": "2024-04-01",
+    "subject": "Poisson d’Avril 🤡",
+    "keyword": "AprilFools"
+  },
+  {
+    "date": "2024-04-01",
     "subject": "Journée Mondiale de la bataille d’oreillers ?",
     "keyword": "PillowFight"
   },
   {
-    "date": "02/04",
+    "date": "2024-04-02",
     "subject": "Journée Mondiale de la sensibilisation à l’autisme",
     "keyword": "AutismAwareness"
   },
   {
-    "date": "07/04",
+    "date": "2024-04-07",
     "subject": "Journée Mondiale de la santé 👩‍⚕️",
     "keyword": "Health"
   },
   {
-    "date": "10/04",
+    "date": "2024-04-10",
     "subject": "Lundi de Pâques 🐰",
     "keyword": "EasterMonday"
   },
   {
-    "date": "13/04",
+    "date": "2024-04-13",
     "subject": "Goût de France – Fête de la Gastronomie",
     "keyword": "FrenchGastronomy"
   },
-  { "date": "14/04", "subject": "Tannat Day", "keyword": "Tannat" },
+  { "date": "2024-04-14", "subject": "Tannat Day", "keyword": "Tannat" },
   {
-    "date": "15/04",
+    "date": "2024-04-15",
     "subject": "Journée Mondiale de l’Art 🎨",
     "keyword": "Art"
   },
   {
-    "date": "17/04",
+    "date": "2024-04-17",
     "subject": "Journée Mondiale de la femme digitale 💻",
     "keyword": "DigitalWomen"
   },
   {
-    "date": "17/04",
+    "date": "2024-04-17",
     "subject": "Journée Mondiale du Malbec",
     "keyword": "Malbec"
   },
   {
-    "date": "20/04",
+    "date": "2024-04-20",
     "subject": "Fête des secrétaires et des assistant(e)s",
     "keyword": "Secretary"
   },
   {
-    "date": "22/04",
+    "date": "2024-04-22",
     "subject": "Journée Mondiale de la Terre",
     "keyword": "EarthDay"
   },
   {
-    "date": "23/04",
+    "date": "2024-04-23",
     "subject": "Journée Mondiale du livre 📖",
     "keyword": "BookDay"
   },
   {
-    "date": "29/04",
+    "date": "2024-04-29",
     "subject": "Journée Internationale de la danse 💃",
     "keyword": "Dance"
   },
   {
-    "date": "30/04",
+    "date": "2024-04-30",
     "subject": "National Raisin Day (États-Unis)",
     "keyword": "Raisin"
   },
-  { "date": "01/05", "subject": "Fête du travail", "keyword": "Labor" },
+  { "date": "2024-05-01", "subject": "Fête du travail", "keyword": "Labor" },
   {
-    "date": "03/05",
+    "date": "2024-05-03",
     "subject": "Journée Mondiale du Soleil ☀️",
     "keyword": "Sun"
   },
-  { "date": "04/05", "subject": "Journée Star Wars", "keyword": "StarWars" },
   {
-    "date": "05/05",
+    "date": "2024-05-04",
+    "subject": "Journée Star Wars",
+    "keyword": "StarWars"
+  },
+  {
+    "date": "2024-05-05",
     "subject": "Journée sans pantalon – No Pants Day",
     "keyword": "Pantsless"
   },
   {
-    "date": "06/05",
+    "date": "2024-05-06",
     "subject": "Journée Internationale du Sauvignon Blanc",
     "keyword": "Wine"
   },
   {
-    "date": "06/05",
+    "date": "2024-05-06",
     "subject": "Journée Mondiale du coloriage",
     "keyword": "Coloring"
   },
   {
-    "date": "07/05",
+    "date": "2024-05-07",
     "subject": "Journée Mondiale du rire 😂",
     "keyword": "Laughter"
   },
   {
-    "date": "08/05",
+    "date": "2024-05-08",
     "subject": "Fin de la Guerre de 1945",
     "keyword": "WarEnd"
   },
-  { "date": "09/05", "subject": "Journée de l’Europe", "keyword": "Europe" },
   {
-    "date": "09/05",
+    "date": "2024-05-09",
+    "subject": "Journée de l’Europe",
+    "keyword": "Europe"
+  },
+  {
+    "date": "2024-05-09",
     "subject": "Journée du Muscat ou World Moscato Day",
     "keyword": "Wine"
   },
   {
-    "date": "14/05",
+    "date": "2024-05-14",
     "subject": "Fête des mères en Belgique, Italie, Australie…",
     "keyword": "Mother"
   },
-  { "date": "17/05", "subject": "Journée du Pinot Gris", "keyword": "Wine" },
-  { "date": "18/05", "subject": "Ascension", "keyword": "Religious" },
   {
-    "date": "21/05",
+    "date": "2024-05-17",
+    "subject": "Journée du Pinot Gris",
+    "keyword": "Wine"
+  },
+  { "date": "2024-05-18", "subject": "Ascension", "keyword": "Religious" },
+  {
+    "date": "2024-05-21",
     "subject": "Journée Internationale du thé",
     "keyword": "Tea"
   },
   {
-    "date": "21/05",
+    "date": "2024-05-21",
     "subject": "Journée Mondiale du Whisky",
     "keyword": "Whisky"
   },
   {
-    "date": "25/05",
+    "date": "2024-05-25",
     "subject": "Journée Mondiale des Geeks, Geek Pride Day",
     "keyword": "Geek"
   },
   {
-    "date": "26/05",
+    "date": "2024-05-26",
     "subject": "Journée Internationale du Chardonnay",
     "keyword": "Wine"
   },
   {
-    "date": "26/05",
+    "date": "2024-05-26",
     "subject": "Fête des Voisins en France",
     "keyword": "Neighbors"
   },
-  { "date": "28/05", "subject": "Pentecôte", "keyword": "Religious" },
+  { "date": "2024-05-28", "subject": "Pentecôte", "keyword": "Religious" },
   {
-    "date": "28/05",
+    "date": "2024-05-28",
     "subject": "fête des Mères en France 🌷",
     "keyword": "Mother"
   },
   {
-    "date": "31/05",
+    "date": "2024-05-31",
     "subject": "Journée Mondiale sans tabac",
     "keyword": "NoTobacco"
   },
   {
-    "date": "01/06",
+    "date": "2024-06-01",
     "subject": "Journée Mondiale des parents",
     "keyword": "Parents"
   },
   {
-    "date": "01/06",
+    "date": "2024-06-01",
     "subject": "Journée Mondiale de la course à pied",
     "keyword": "Running"
   },
   {
-    "date": "02/06",
+    "date": "2024-06-02",
     "subject": "Journée Nationale du donut (États-Unis)",
     "keyword": "Donut"
   },
   {
-    "date": "03/06",
+    "date": "2024-06-03",
     "subject": "Journée Mondiale du vélo 🚴",
     "keyword": "Bicycle"
   },
   {
-    "date": "04/06",
+    "date": "2024-06-04",
     "subject": "Journée Mondiale du Cognac",
     "keyword": "Cognac"
   },
   {
-    "date": "05/06",
+    "date": "2024-06-05",
     "subject": "Journée Mondiale de l’environnement",
     "keyword": "Environment"
   },
-  { "date": "08/06", "subject": "Fête des amis 👬", "keyword": "Friendship" },
   {
-    "date": "08/06",
+    "date": "2024-06-08",
+    "subject": "Fête des amis 👬",
+    "keyword": "Friendship"
+  },
+  {
+    "date": "2024-06-08",
     "subject": "Journée Mondiale des océans",
     "keyword": "Oceans"
   },
   {
-    "date": "10/06",
+    "date": "2024-06-10",
     "subject": "Journée Mondiale du bien-être",
     "keyword": "Wellness"
   },
-  { "date": "11/06", "subject": "Absinthe en Fête", "keyword": "Absinthe" },
   {
-    "date": "11/06",
+    "date": "2024-06-11",
+    "subject": "Absinthe en Fête",
+    "keyword": "Absinthe"
+  },
+  {
+    "date": "2024-06-11",
     "subject": "fête des Pères en Belgique, Suisse",
     "keyword": "Father"
   },
   {
-    "date": "15/06",
+    "date": "2024-06-15",
     "subject": "Journée Mondiale contre la faim",
     "keyword": "Hunger"
   },
   {
-    "date": "15/06",
+    "date": "2024-06-15",
     "subject": "Journée Mondiale du Chenin",
     "keyword": "Wine"
   },
   {
-    "date": "18/06",
+    "date": "2024-06-18",
     "subject": "Journée Internationale du sushi 🍣",
     "keyword": "Sushi"
   },
   {
-    "date": "18/06",
+    "date": "2024-06-18",
     "subject": "fête des Pères en France",
     "keyword": "Father"
   },
-  { "date": "21/06", "subject": "1ᵉʳ jour d’été", "keyword": "Summer" },
+  { "date": "2024-06-21", "subject": "1ᵉʳ jour d’été", "keyword": "Summer" },
   {
-    "date": "21/06",
+    "date": "2024-06-21",
     "subject": "Journée mondiale du yoga 🧘",
     "keyword": "Yoga"
   },
-  { "date": "21/06", "subject": "Fête de la musique", "keyword": "Music" },
+  { "date": "2024-06-21", "subject": "Fête de la musique", "keyword": "Music" },
   {
-    "date": "21/06",
+    "date": "2024-06-21",
     "subject": "Journée Internationale du Lambrusco",
     "keyword": "Wine"
   },
   {
-    "date": "24/06",
+    "date": "2024-06-24",
     "subject": "Journée Mondiale contre l’abandon des animaux de compagnie",
     "keyword": "Pets"
   },
   {
-    "date": "24/06",
+    "date": "2024-06-24",
     "subject": "Journée Internationale du rosé",
     "keyword": "Wine"
   },
-  { "date": "28/06", "subject": "Début des soldes d’été", "keyword": "Sale" },
   {
-    "date": "01/07",
+    "date": "2024-06-28",
+    "subject": "Début des soldes d’été",
+    "keyword": "Sale"
+  },
+  {
+    "date": "2024-07-01",
     "subject": "Journée Mondiale de la musique Reggae",
     "keyword": "Reggae"
   },
   {
-    "date": "03/07",
+    "date": "2024-07-03",
     "subject": "Journée Mondiale sans sac plastique",
     "keyword": "PlasticFree"
   },
   {
-    "date": "06/07",
+    "date": "2024-07-06",
     "subject": "Journée Mondiale du baiser 😘",
     "keyword": "Kiss"
   },
-  { "date": "14/07", "subject": "Fête Nationale 🇫🇷", "keyword": "France" },
+  { "date": "2024-07-14", "subject": "Fête Nationale 🇫🇷", "keyword": "France" },
   {
-    "date": "17/07",
+    "date": "2024-07-17",
     "subject": "Journée Mondiale de l’Emoji – World Emoji Day 😜",
     "keyword": "Emoji"
   },
   {
-    "date": "21/07",
+    "date": "2024-07-21",
     "subject": "Journée Mondiale de la malbouffe",
     "keyword": "JunkFood"
   },
   {
-    "date": "23/07",
+    "date": "2024-07-23",
     "subject": "Journée Mondiale des dauphins 🐬",
     "keyword": "Dolphin"
   },
-  { "date": "25/07", "subject": "Wine & Cheese Day", "keyword": "WineCheese" },
   {
-    "date": "28/07",
+    "date": "2024-07-25",
+    "subject": "Wine & Cheese Day",
+    "keyword": "WineCheese"
+  },
+  {
+    "date": "2024-07-28",
     "subject": "Journée Mondiale des administrateurs système 💻",
     "keyword": "SysAdmin"
   },
   {
-    "date": "28/07",
+    "date": "2024-07-28",
     "subject": "Journée du Syrah (Shiraz Day)",
     "keyword": "Wine"
   },
   {
-    "date": "29/07",
+    "date": "2024-07-29",
     "subject": "Journée Nationale du rouge à lèvres💄",
     "keyword": "Lipstick"
   },
   {
-    "date": "30/07",
+    "date": "2024-07-30",
     "subject": "Journée Internationale de l’amitié",
     "keyword": "Friendship"
   },
   {
-    "date": "31/07",
+    "date": "2024-07-31",
     "subject": "Journée Internationale de la femme africaine",
     "keyword": "AfricanWoman"
   },
   {
-    "date": "01/08",
+    "date": "2024-08-01",
     "subject": "Journée Mondiales de la Jeunesse",
     "keyword": "Youth"
   },
   {
-    "date": "01/08",
+    "date": "2024-08-01",
     "subject": "Journée Internationale de la frite belge 🍟",
     "keyword": "Fries"
   },
-  { "date": "01/08", "subject": "Journées de l’Albarino", "keyword": "Wine" },
   {
-    "date": "04/08",
+    "date": "2024-08-01",
+    "subject": "Journées de l’Albarino",
+    "keyword": "Wine"
+  },
+  {
+    "date": "2024-08-04",
     "subject": "Journée du vin blanc",
     "keyword": "WhiteWine"
   },
   {
-    "date": "04/08",
+    "date": "2024-08-04",
     "subject": "Journée Mondiale de la bière 🍻",
     "keyword": "Beer"
   },
   {
-    "date": "05/08",
+    "date": "2024-08-05",
     "subject": "Journée mondiale de la bière",
     "keyword": "Beer"
   },
   {
-    "date": "08/08",
+    "date": "2024-08-08",
     "subject": "Journée Internationale du chat",
     "keyword": "Cat"
   },
   {
-    "date": "13/08",
+    "date": "2024-08-13",
     "subject": "Journée Internationale des gauchers ✍️",
     "keyword": "LeftHanded"
   },
-  { "date": "15/08", "subject": "Assomption", "keyword": "Assumption" },
-  { "date": "18/08", "subject": "Journée du Pinot Noir", "keyword": "Wine" },
+  { "date": "2024-08-15", "subject": "Assomption", "keyword": "Assumption" },
   {
-    "date": "19/08",
+    "date": "2024-08-18",
+    "subject": "Journée du Pinot Noir",
+    "keyword": "Wine"
+  },
+  {
+    "date": "2024-08-19",
     "subject": "Journée Mondiale de la photographie",
     "keyword": "Photography"
   },
   {
-    "date": "19/08",
+    "date": "2024-08-19",
     "subject": "Journée du Cabernet Sauvignon",
     "keyword": "Wine"
   },
   {
-    "date": "26/08",
+    "date": "2024-08-26",
     "subject": "Journée Mondiale du chien 🐕",
     "keyword": "Dog"
   },
   {
-    "date": "28/08",
+    "date": "2024-08-28",
     "subject": "Journée du nœud papillon",
     "keyword": "Bowtie"
   },
   {
-    "date": "28/08",
+    "date": "2024-08-28",
     "subject": "Journée du vin rouge 🍷",
     "keyword": "RedWine"
   },
   {
-    "date": "30/08",
+    "date": "2024-08-30",
     "subject": "Journée Internationale du Cabernet",
     "keyword": "Wine"
   },
-  { "date": "31/08", "subject": "Journée Mondiale du blog", "keyword": "Blog" },
   {
-    "date": "31/08",
+    "date": "2024-08-31",
+    "subject": "Journée Mondiale du blog",
+    "keyword": "Blog"
+  },
+  {
+    "date": "2024-08-31",
     "subject": "Journée Internationale des personnes d’ascendance africaine",
     "keyword": "AfricanDescent"
   },
   {
-    "date": "01/09",
+    "date": "2024-09-01",
     "subject": "Rentrée des classes en France",
     "keyword": "BackToSchool"
   },
   {
-    "date": "02/09",
+    "date": "2024-09-02",
     "subject": "Journée Mondiale de la barbe 🧔‍♂️🧔‍♀️",
     "keyword": "Beard"
   },
   {
-    "date": "09/09",
+    "date": "2024-09-09",
     "subject": "Journée Mondiale du nounours 🧸",
     "keyword": "TeddyBear"
   },
-  { "date": "10/09", "subject": "Marathon du Médoc", "keyword": "Marathon" },
   {
-    "date": "10/09",
+    "date": "2024-09-10",
+    "subject": "Marathon du Médoc",
+    "keyword": "Marathon"
+  },
+  {
+    "date": "2024-09-10",
     "subject": "Journée du vin de Porto",
     "keyword": "PortWine"
   },
   {
-    "date": "13/09",
+    "date": "2024-09-13",
     "subject": "Journée Mondiale des développeur(se)s et des programmeur(se)s",
     "keyword": "Developers"
   },
   {
-    "date": "16/09",
+    "date": "2024-09-16",
     "subject": "Journée Internationale du Grenache",
     "keyword": "Wine"
   },
   {
-    "date": "16/09",
+    "date": "2024-09-16",
     "subject": "Journées européennes du Patrimoine",
     "keyword": "Heritage"
   },
   {
-    "date": "17/09",
+    "date": "2024-09-17",
     "subject": "Journées européennes du Patrimoine",
     "keyword": "Heritage"
   },
   {
-    "date": "20/09",
+    "date": "2024-09-20",
     "subject": "Journée du transport public 🚈",
     "keyword": "PublicTransport"
   },
   {
-    "date": "21/09",
+    "date": "2024-09-21",
     "subject": "Journée Internationale de la paix",
     "keyword": "Peace"
   },
   {
-    "date": "22/09",
+    "date": "2024-09-22",
     "subject": "Journée sans voiture 🚗",
     "keyword": "CarFree"
   },
-  { "date": "23/09", "subject": "1ᵉʳ jour d’automne", "keyword": "Autumn" },
   {
-    "date": "26/09",
+    "date": "2024-09-23",
+    "subject": "1ᵉʳ jour d’automne",
+    "keyword": "Autumn"
+  },
+  {
+    "date": "2024-09-26",
     "subject": "Journée Européenne des langues",
     "keyword": "Languages"
   },
   {
-    "date": "27/09",
+    "date": "2024-09-27",
     "subject": "Journée Mondiale du tourisme",
     "keyword": "Tourism"
   },
   {
-    "date": "28/09",
+    "date": "2024-09-28",
     "subject": "Journée Mondiale de la mer 🌊",
     "keyword": "Sea"
   },
   {
-    "date": "01/10",
+    "date": "2024-10-01",
     "subject": "Octobre rose",
     "keyword": "BreastCancerAwareness"
   },
   {
-    "date": "01/10",
+    "date": "2024-10-01",
     "subject": "Journée Internationale du café ☕",
     "keyword": "Coffee"
   },
   {
-    "date": "01/10",
+    "date": "2024-10-01",
     "subject": "Journée Mondiale du cacao et du chocolat 🍫",
     "keyword": "Chocolate"
   },
   {
-    "date": "01/10",
+    "date": "2024-10-01",
     "subject": "Journée Mondiale du végétarisme",
     "keyword": "Vegetarianism"
   },
   {
-    "date": "01/10",
-    "subject": "Fête des grands-pères",
+    "date": "2024-10-01",
+    "subject": "Fête des grands pères",
     "keyword": "Grandfathers"
   },
   {
-    "date": "04/10",
+    "date": "2024-10-04",
     "subject": "Journée Mondiale des animaux",
     "keyword": "Animals"
   },
   {
-    "date": "06/10",
+    "date": "2024-10-06",
     "subject": "Journée Mondiale du sourire – World Smile Day",
     "keyword": "Smile"
   },
   {
-    "date": "06/10",
+    "date": "2024-10-06",
     "subject": "Journée Internationale du vin orange",
     "keyword": "OrangeWine"
   },
   {
-    "date": "07/10",
+    "date": "2024-10-07",
     "subject": "Journée Mondiale du coton",
     "keyword": "Cotton"
   },
   {
-    "date": "08/10",
+    "date": "2024-10-08",
     "subject": "Journée Internationale du Pinotage",
     "keyword": "Wine"
   },
-  { "date": "10/10", "subject": "Journée Mondiale de l’œuf", "keyword": "Egg" },
   {
-    "date": "13/10",
+    "date": "2024-10-10",
+    "subject": "Journée Mondiale de l’œuf",
+    "keyword": "Egg"
+  },
+  {
+    "date": "2024-10-13",
     "subject": "Journée Internationale du hamburger",
     "keyword": "Hamburger"
   },
   {
-    "date": "16/10",
+    "date": "2024-10-16",
     "subject": "Journée Mondiale du pain 🍞",
     "keyword": "Bread"
   },
   {
-    "date": "20/10",
+    "date": "2024-10-20",
     "subject": "Journée Internationale des cuisiniers",
     "keyword": "Cooks"
   },
   {
-    "date": "25/10",
+    "date": "2024-10-25",
     "subject": "Journée Mondiale des pâtes 🍝",
     "keyword": "Pasta"
   },
   {
-    "date": "27/10",
+    "date": "2024-10-27",
     "subject": "Journée Internationale du Carignan",
     "keyword": "Wine"
   },
   {
-    "date": "28/10",
+    "date": "2024-10-28",
     "subject": "Journée Internationale du Champagne",
     "keyword": "Champagne"
   },
   {
-    "date": "30/10",
+    "date": "2024-10-30",
     "subject": "Journée Internationale du Merlot",
     "keyword": "Wine"
   },
   {
-    "date": "28/10",
+    "date": "2024-10-28",
     "subject": "Passage à l’heure d’hiver",
     "keyword": "DaylightSaving"
   },
-  { "date": "31/10", "subject": "Halloween 👻", "keyword": "Halloween" },
-  { "date": "01/11", "subject": "Movember", "keyword": "Movember" },
-  { "date": "01/11", "subject": "Mois sans tabac 🚭", "keyword": "NoTobacco" },
-  { "date": "01/11", "subject": "Toussaint", "keyword": "AllSaints" },
+  { "date": "2024-10-31", "subject": "Halloween 👻", "keyword": "Halloween" },
+  { "date": "2024-11-01", "subject": "Movember", "keyword": "Movember" },
   {
-    "date": "01/11",
+    "date": "2024-11-01",
+    "subject": "Mois sans tabac 🚭",
+    "keyword": "NoTobacco"
+  },
+  { "date": "2024-11-01", "subject": "Toussaint", "keyword": "AllSaints" },
+  {
+    "date": "2024-11-01",
     "subject": "Journée Mondiale du véganisme 🥒",
     "keyword": "Veganism"
   },
   {
-    "date": "03/11",
+    "date": "2024-11-03",
     "subject": "Journée Mondiale de la gentillesse 😀",
     "keyword": "Kindness"
   },
   {
-    "date": "02/11",
+    "date": "2024-11-02",
     "subject": "Semaine Internationale du Sherry",
     "keyword": "Sherry"
   },
   {
-    "date": "03/11",
+    "date": "2024-11-03",
     "subject": "Semaine Internationale du Sherry",
     "keyword": "Sherry"
   },
   {
-    "date": "04/11",
+    "date": "2024-11-04",
     "subject": "Semaine Internationale du Sherry",
     "keyword": "Sherry"
   },
   {
-    "date": "05/11",
+    "date": "2024-11-05",
     "subject": "Semaine Internationale du Sherry",
     "keyword": "Sherry"
   },
   {
-    "date": "06/11",
+    "date": "2024-11-06",
     "subject": "Semaine Internationale du Sherry",
     "keyword": "Sherry"
   },
   {
-    "date": "07/11",
+    "date": "2024-11-07",
     "subject": "Semaine Internationale du Sherry",
     "keyword": "Sherry"
   },
   {
-    "date": "08/11",
+    "date": "2024-11-08",
     "subject": "Semaine Internationale du Sherry",
     "keyword": "Sherry"
   },
   {
-    "date": "10/11",
+    "date": "2024-11-10",
     "subject": "Journée Internationale du Merlot",
     "keyword": "Merlot"
   },
   {
-    "date": "10/11",
+    "date": "2024-11-10",
     "subject": "Journée Internationale du Tempranillo",
     "keyword": "Tempranillo"
   },
   {
-    "date": "10/11",
+    "date": "2024-11-10",
     "subject": "Journée Internationale des stagiaires",
     "keyword": "Interns"
   },
-  { "date": "11/11", "subject": "Armistice", "keyword": "Armistice" },
+  { "date": "2024-11-11", "subject": "Armistice", "keyword": "Armistice" },
   {
-    "date": "11/11",
+    "date": "2024-11-11",
     "subject": "Journée Internationale des célibataires",
     "keyword": "Singles"
   },
   {
-    "date": "16/11",
+    "date": "2024-11-16",
     "subject": "Journée Internationale de la tolérance",
     "keyword": "Tolerance"
   },
-  { "date": "17/11", "subject": "Beaujolais Nouveau", "keyword": "Beaujolais" },
   {
-    "date": "19/11",
+    "date": "2024-11-17",
+    "subject": "Beaujolais Nouveau",
+    "keyword": "Beaujolais"
+  },
+  {
+    "date": "2024-11-19",
     "subject": "Journée Internationale de l’homme",
     "keyword": "MensDay"
   },
   {
-    "date": "22/11",
+    "date": "2024-11-22",
     "subject": "Journées Mondiales du jeu vidéo 🎮",
     "keyword": "VideoGames"
   },
-  { "date": "23/11", "subject": "Thanksgiving 🦃", "keyword": "Thanksgiving" },
-  { "date": "24/11", "subject": "Black Friday", "keyword": "BlackFriday" },
   {
-    "date": "24/11",
+    "date": "2024-11-23",
+    "subject": "Thanksgiving 🦃",
+    "keyword": "Thanksgiving"
+  },
+  { "date": "2024-11-24", "subject": "Black Friday", "keyword": "BlackFriday" },
+  {
+    "date": "2024-11-24",
     "subject": "Journée Mondiale du Carmenere",
     "keyword": "Carmenere"
   },
-  { "date": "27/11", "subject": "Cyber Monday", "keyword": "CyberMonday" },
+  { "date": "2024-11-27", "subject": "Cyber Monday", "keyword": "CyberMonday" },
   {
-    "date": "01/12",
+    "date": "2024-12-01",
     "subject": "Journée Mondiale de lutte contre le sida",
     "keyword": "AIDS"
   },
   {
-    "date": "02/12",
+    "date": "2024-12-02",
     "subject": "Journée Internationale de la samba",
     "keyword": "Samba"
   },
   {
-    "date": "04/12",
+    "date": "2024-12-04",
     "subject": "Journée Internationale du Cabernet Franc",
     "keyword": "CabernetFranc"
   },
   {
-    "date": "05/12",
+    "date": "2024-12-05",
     "subject": "Journée Mondiale du bénévolat",
     "keyword": "Volunteering"
   },
   {
-    "date": "06/12",
-    "subject": "Fête de la Saint-Nicolas",
+    "date": "2024-12-06",
+    "subject": "Fête de la Saint Nicolas",
     "keyword": "SaintNicholas"
   },
   {
-    "date": "08/12",
+    "date": "2024-12-08",
     "subject": "Fête des lumières à Lyon 🕯️",
     "keyword": "Lights"
   },
   {
-    "date": "08/12",
+    "date": "2024-12-08",
     "subject": "Journée Mondiale du climat",
     "keyword": "Climate"
   },
   {
-    "date": "10/12",
+    "date": "2024-12-10",
     "subject": "Journée Internationale des Droits de l’Homme",
     "keyword": "HumanRights"
   },
   {
-    "date": "20/12",
+    "date": "2024-12-20",
     "subject": "Journée Internationale de la Sangria",
     "keyword": "Sangria"
   },
-  { "date": "21/12", "subject": "1ᵉʳ jour d’hiver ❄️", "keyword": "Winter" },
   {
-    "date": "21/12",
+    "date": "2024-12-21",
+    "subject": "1ᵉʳ jour d’hiver ❄️",
+    "keyword": "Winter"
+  },
+  {
+    "date": "2024-12-21",
     "subject": "Journée Mondiale de l’orgasme",
     "keyword": "Orgasm"
   },
-  { "date": "25/12", "subject": "Noël 🎅", "keyword": "Christmas" },
+  { "date": "2024-12-25", "subject": "Noël 🎅", "keyword": "Christmas" },
   {
-    "date": "31/12",
+    "date": "2024-12-31",
     "subject": "Réveillon du Nouvel An (Bonne Année 2024 !!) 🥂",
     "keyword": "NewYearEve"
   }
